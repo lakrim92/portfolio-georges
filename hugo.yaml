@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://lakrim92.github.io/portfolio_georges/
+  gitRepo: https://lakrim92.github.io/portfolio-georges/
   # Default branch of your Git repo
   gitBranch: main
 
