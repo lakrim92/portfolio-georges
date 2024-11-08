@@ -1,0 +1,8 @@
+{
+    "commands": {
+        "Sample command": {
+            "description": "Sample command to be modified",
+            "command": "echo 'Hello World !'"
+        }
+    }
+}
